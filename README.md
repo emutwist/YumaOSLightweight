@@ -22,7 +22,7 @@ It’s designed for learning, experimenting, and just having fun with a terminal
 
 ## 🚀 Download & Run
 
-Download the latest ISO from the [Releases page](https://github.com/YOUR_USERNAME/YumaOS/releases).
+Download the latest ISO from the [Releases page](https://github.com/emutwist/YumaOSLightweight/releases/tag/release).
 
 ### Using VirtualBox
 
